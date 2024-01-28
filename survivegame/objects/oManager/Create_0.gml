@@ -36,7 +36,7 @@ Horde_attack = 0
 alarm[0] = -1;
 alarm[1] = -1;
 
-start_new_day()
+//start_new_day()
 
 enum GameState {
     Planning,
